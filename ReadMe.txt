@@ -1,3 +1,11 @@
+(************************************************************)
+(* Win32 API Hooking Library                                *)
+(* by Robert Milan (03/23/13)                               *)
+(************************************************************)
+(* This code is provided "as is" without express or         *)
+(* implied warranty of any kind. Use it at your own risk.   *)
+(************************************************************)
+
 If you want to run the Win32 API Hooking Project correctly and see how it works do the following.
 
 - Compile DLL Injector
